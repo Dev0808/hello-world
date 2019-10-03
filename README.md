@@ -1,4 +1,4 @@
-# hello-world
-This is my first repository
+# hello-Tanmay
+This is your first repository
 Hey There!
-This is Tanmay Sexana, from MCA 1 year.
+This is me Tanmay Sexana, from MCA 1 year.
